@@ -15,4 +15,4 @@ workflows:
   version: 2
   workflwos:
     jobs:
-      -test
+      - test
